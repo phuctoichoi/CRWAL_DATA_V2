@@ -122,7 +122,9 @@ Chạy local, không phụ thuộc API trả phí
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-repo/wikinongsang.git
+git clone https://github.com/phuctoichoi/CRWAL_DATA_V2.git
+
+
 
 # 2. Cài đặt dependencies
 pip install -r requirements.txt
@@ -137,16 +139,6 @@ python app.py
 http://localhost:8000
 ```
 
-## 📞 Liên hệ & Hỗ trợ
-
-- **📧 Email**: support@wikinongsang.com
-- **🌐 Website**: https://wikinongsang.com
-- **📱 Hotline**: 1900-xxxx
-- **💬 Community**: [Discord/Telegram]
-
-## 📄 License
-
-MIT License - Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
 ---
 
