@@ -88,7 +88,7 @@ ollama list
 ### Tải source code
 ```bash
 # Option 1: Clone từ Git (nếu có)
-git clone https://github.com/your-repo/wikinongsang.git
+git clone https://github.com/phuctoichoi/CRWAL_DATA_V2.git
 cd wikinongsang
 
 # Option 2: Tải ZIP và giải nén
@@ -301,3 +301,4 @@ Sau khi cài đặt thành công:
 
 
 </div>
+
